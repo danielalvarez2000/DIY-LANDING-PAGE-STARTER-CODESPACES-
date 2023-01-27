@@ -1,11 +1,12 @@
 @import url('sharpie.css');
 
 /* My Styles */
-body{
+
+body {
 font-family: 'Boxing-Regular';
 
 display: grid;
 justify-content: center;
 align-content: center;
-height: 100vh;
+height:100vh;
 }
