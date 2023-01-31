@@ -4,7 +4,7 @@
 
 body {
 font-family: 'Boxing-Regular';
-
+background-color:red;
 display: grid;
 justify-content: center;
 align-content: center;
