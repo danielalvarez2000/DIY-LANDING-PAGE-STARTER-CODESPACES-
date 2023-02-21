@@ -14,4 +14,6 @@ height: -20vh;
 img{
     width: 60vh;
     height: 40vh;
+    border-radius: 20px;
 }
+
