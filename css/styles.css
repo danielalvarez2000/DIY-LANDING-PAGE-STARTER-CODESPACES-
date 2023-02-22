@@ -5,18 +5,15 @@
 /* 0,0,0,1*/
 
 body {
-font-family: 'Boxing-Regular';
-background-color:red;
-display: grid;
-justify-content: center;
-align-content: center;
-<<<<<<< HEAD
-height: -30vh;
-=======
-height: 100vh;
+    font-family: 'Boxing-Regular';
+    background-color: red;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
 }
 
-img{
+img {
     width: 60vh;
     height: 40vh;
     border-radius: 20px;
@@ -28,5 +25,4 @@ img{
 
 body h1 {
     font-family: 'Boxing-Regular';
->>>>>>> 36b560da5da0b1c66bb79af751d33892ef56488d
 }
