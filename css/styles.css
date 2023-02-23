@@ -28,9 +28,28 @@ body h1 {
 }
 
 .homepage-button {
-    background-color: azure;
-    height: 70px;
-    border: none;
-    border-radius: 3px;
+    background-color: aliceblue;
+    height: 50px;
+    border-radius: 30px;
 
+}
+
+.github-button {
+    background-color: black;
+    margin-left: 20px;
+    height: 50px;
+    border-radius: 10px;
+
+}
+
+.linkedin-button {
+    background-color: blue;
+    margin-left: 20px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+li {
+    position: relative;
+    bottom: 25px;
 }
