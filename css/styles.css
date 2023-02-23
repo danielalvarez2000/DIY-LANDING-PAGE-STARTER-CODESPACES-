@@ -26,3 +26,11 @@ img {
 body h1 {
     font-family: 'Boxing-Regular';
 }
+
+.homepage-button {
+    background-color: azure;
+    height: 70px;
+    border: none;
+    border-radius: 3px;
+
+}
